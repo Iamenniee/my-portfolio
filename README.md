@@ -5,8 +5,6 @@ Ennie's Portfolio Website
 
 Live Demo:[https://ennie-portfolio.tiiny.site](https://ennie-portfolio.tiiny.site)  
 
-![Portfolio Screenshot](https://via.placeholder.com/800x400?text=Portfolio+Preview)  
-*(Optional: Replace with an actual screenshot later)*
 
 About
 A modern, responsive portfolio showcasing my web development projects and design skills. This site highlights my technical abilities and creative approach to problem-solving.
